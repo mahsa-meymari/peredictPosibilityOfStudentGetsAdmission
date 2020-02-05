@@ -1,1 +1,1 @@
-# peredictPosibilityOfStudentGetsAdmmition
+# peredictPosibilityOfStudentGetsAdmission
